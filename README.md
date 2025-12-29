@@ -86,17 +86,7 @@
 | Personal info | `index.html` → sections |
 | Add new section | `index.html` + navigation link |
 
----
 
-## 👤 Contact Info
-
-| Platform | Link |
-|----------|------|
-| Email | amankumar029002@gmail.com |
-| LinkedIn | linkedin.com/in/amankr029 |
-| GitHub | github.com/journeyto0 |
-
----
 
 ## 📄 License
 
