@@ -1,6 +1,107 @@
-![Screenshot 2024-02-03 000515](https://github.com/journeyto0/amankumar.github.io/assets/142199357/f16e586a-0571-4ce9-8ea7-c925457af2bf)
-![Screenshot 2024-02-03 000546](https://github.com/journeyto0/amankumar.github.io/assets/142199357/b393f1c9-d95b-400a-9e3f-4fc0fd894839)
-![Screenshot 2024-02-03 000600](https://github.com/journeyto0/amankumar.github.io/assets/142199357/ee9f11f2-fd24-4d27-8893-e8a01664f355)
-![Screenshot 2024-02-03 000612](https://github.com/journeyto0/amankumar.github.io/assets/142199357/6fe758e0-d689-487c-9561-beba16752dc8)
-![Screenshot 2024-02-03 000624](https://github.com/journeyto0/amankumar.github.io/assets/142199357/2c52e116-8c67-4b59-9f61-75436d9eb0b9)
-![Screenshot 2024-02-03 000635](https://github.com/journeyto0/amankumar.github.io/assets/142199357/1938608b-80ab-4706-857c-c71e0aa3bc06)
+# 📋 Portfolio README Summary
+
+---
+
+## 🎯 What is This?
+
+- Personal portfolio website for **Aman Kumar**
+- Showcases skills, projects, certifications & achievements
+- Designed with **recruiter-first approach** — clean & professional
+
+---
+
+## ❓ Why This Portfolio?
+
+| Purpose | Benefit |
+|---------|---------|
+| Professional presentation | Impress recruiters & clients |
+| Showcase projects | Demonstrate real-world work |
+| Display skills | Highlight technical abilities |
+| Easy contact | Let opportunities reach you |
+
+---
+
+## ✨ Key Features
+
+- 🌓 **Dark/Light theme toggle** (saved in browser)
+- ⌨️ **Typing animation** for dynamic text
+- 📱 **Fully responsive** (desktop, tablet, mobile)
+- 🎠 **Project carousel** slider
+- 🔗 **Smooth scrolling** navigation
+- 📧 **Contact form** for direct messages
+
+---
+
+## 🛠️ Tech Stack Used
+
+| Category | Technologies |
+|----------|-------------|
+| **Structure** | HTML5 |
+| **Styling** | CSS3, Bootstrap 5.3.3 |
+| **Logic** | JavaScript (ES6+), jQuery 3.7.1 |
+| **Icons** | Font Awesome 6.5.2 |
+| **Animations** | Typed.js 2.0.16 |
+| **Carousel** | Owl Carousel 2.3.4 |
+| **Fonts** | Space Grotesk, JetBrains Mono, Inter |
+
+---
+
+## 📁 Files Overview
+
+| File | Purpose |
+|------|---------|
+| `index.html` | Main page structure |
+| `styles.css` | All styling & themes |
+| `script.js` | Interactivity & animations |
+| `README.md` | Documentation |
+
+---
+
+## 🚀 How to Use (Clone & Run)
+
+1. **Clone repo**
+   ```bash
+   git clone https://github.com/journeyto0/amankumar.github.io.git
+   ```
+
+2. **Go to folder**
+   ```bash
+   cd amankumar.github.io
+   ```
+
+3. **Open in browser**
+   - Double-click `index.html`
+   - OR use VS Code Live Server
+
+4. **Customize & deploy!**
+
+---
+
+## 🎨 Easy Customization
+
+| What to Change | Where to Edit |
+|----------------|---------------|
+| Colors & Theme | `styles.css` → `:root` variables |
+| Typing text | `script.js` → `strings: [...]` |
+| Personal info | `index.html` → sections |
+| Add new section | `index.html` + navigation link |
+
+---
+
+## 👤 Contact Info
+
+| Platform | Link |
+|----------|------|
+| Email | amankumar029002@gmail.com |
+| LinkedIn | linkedin.com/in/amankr029 |
+| GitHub | github.com/journeyto0 |
+
+---
+
+## 📄 License
+
+**MIT License** — Free to use, modify & share!
+
+---
+
+**⭐ Star the repo if helpful!**
